@@ -1,0 +1,7 @@
+﻿uvicorn[standard]
+aiosqlite
+python-dotenv
+sse-starlette
+httpx
+beautifulsoup4
+sqlalchemy
